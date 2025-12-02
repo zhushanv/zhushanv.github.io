@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Hush algorithm</title>
+      <link href="/2025/12/02/hush/"/>
+      <url>/2025/12/02/hush/</url>
+      
+        <content type="html"><![CDATA[<p>本文主要介绍C++中的哈希函数，围绕何为哈希函数，哈希函数在编码中的应用场景，以及自定义哈希函数进行了简要的介绍</p><h2 id="C-中的hush函数"><a href="#C-中的hush函数" class="headerlink" title="C++中的hush函数"></a>C++中的hush函数</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2025/12/02/hello-world/"/>
       <url>/2025/12/02/hello-world/</url>
